@@ -13,7 +13,7 @@ int main()
     string e[3]={"b) 6","b) 6","b) 9"};
     string f[3]={"c) 7","c) 4","c) 5"};
     string g[3]={"d) 8","d) 6","d) -1"};
-    cout<<"-------------------------------------Welcome to the world's most difficult quiz----------------------------------------- "<<endl;
+    cout<<"-------------------------------------Welcome to the world's most quiz----------------------------------------- "<<endl;
     for(i=0;i<3;i++)
     {
       cout<<c[i]<<endl;
@@ -45,3 +45,4 @@ int main()
       }
     return 0;
 }
+//code ends
