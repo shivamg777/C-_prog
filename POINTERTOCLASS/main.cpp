@@ -13,7 +13,7 @@ public:
     }
     void print()
     {
-        cout<<a<<b<<endl;
+        cout<<a<<b<<"\n";
     }
 };
 
