@@ -28,3 +28,4 @@ int main()
     array obj;
     return 0;
 }
+//code ends
